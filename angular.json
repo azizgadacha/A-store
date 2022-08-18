@@ -23,11 +23,33 @@
               "src/assets"
             ],
             "styles": [
+
+             "assets/css/settings.css",
+               "assets/css/bootstrap.min.css"  ,
+               "assets/css/font-awesome.min.css",
+               "assets/css/ionicons.min.css"  ,
+               "assets/css/main.css"  ,
+               "assets/css/style.css"  ,
+               "assets/css/responsive.css"  ,
+               "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+               "https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900",
               "src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.css",
-              "node"
+              "node_modules/font-awesome/css/font-awesome.css"
             ],
-            "scripts": []
+            "scripts": [
+                "assets/js/jquery-1.11.3.min.js"  ,
+                "assets/js/bootstrap.min.js"  ,
+                "assets/js/own-menu.js"  ,
+                "assets/js/jquery.lighter.js"  ,
+                "assets/js/owl.carousel.min.js"  ,
+
+
+             "assets/js/jquery.tp.t.min.js"  ,
+              "assets/js/jquery.tp.min.js"  ,
+                "assets/js/main.js"  ,
+                "assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {

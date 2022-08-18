@@ -7,18 +7,25 @@ import {FormsModule} from "@angular/forms";
 import { ProductComponent } from './component/product/product.component';
 import {NavBarComponent} from "./component/nav-bar/nav-bar.component";
 import { FooterComponent } from './component/footer/footer.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { ProductsListeComponent } from './component/products-liste/products-liste.component';
+import { HomeComponent } from './component/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
     ProductComponent,
-    FooterComponent
+    FooterComponent,
+    ProductsListeComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    FontAwesomeModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
