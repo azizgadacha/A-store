@@ -7,6 +7,7 @@ import {faAngleLeft} from '@fortawesome/free-solid-svg-icons'
 })
 export class AppComponent {
   title = 'store';
+
   faAngleLeft=faAngleLeft
 }
 

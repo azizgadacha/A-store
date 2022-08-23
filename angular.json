@@ -23,30 +23,30 @@
               "src/assets"
             ],
             "styles": [
-
-              "src/assets/css/settings.css",
-              "src/assets/css/bootstrap.min.css"  ,
-              "src/assets/css/main.css"  ,
-              "src/assets/css/style.css"  ,
-              "src/assets/css/responsive.css"  ,
-              "src/assets/css/font1"  ,
-              "src/assets/css/font2"  ,
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/font-awesome.min.css",
 
 
-              "node_modules/bootstrap/dist/css/bootstrap.css",
-              "node_modules/font-awesome/css/font-awesome.css"
+              "src/assets/css/googleFont1.css",
+              "src/assets/css/googleFont2.css",
+              "src/assets/css/googleFont.css",
+
+              "src/assets/css/owl.carousel.css",
+              "src/assets/style.css",
+              "src/assets/css/responsive.css"
+
             ],
             "scripts": [
-              "src/assets/js/jquery-1.11.3.min.js"  ,
-              "src/assets/js/bootstrap.min.js"  ,
-              "src/assets/js/own-menu.js"  ,
-              "src/assets/js/jquery.lighter.js"  ,
-              "src/assets/js/owl.carousel.min.js"  ,
-
-
-              "src/assets/js/jquery.tp.t.min.js"  ,
-              "src/assets/js/jquery.tp.min.js"  ,
-              "src/assets/js/main.js"
+              "src/assets/js/bxslider.min.js",
+              "src/assets/js/jquery.easing.1.3.min.js",
+              "src/assets/js/jquery.js",
+              "src/assets/js/jquery.sticky.js",
+              "src/assets/js/main.js",
+              "src/assets/js/maxcdnHtml.js",
+              "src/assets/js/maxcdnRespond.js",
+              "src/assets/js/owl.carousel.min.js",
+              "src/assets/js/script.slider.js",
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
