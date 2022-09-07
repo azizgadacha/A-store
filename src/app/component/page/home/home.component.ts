@@ -8,6 +8,8 @@ import {faAngleLeft} from '@fortawesome/free-solid-svg-icons'
 })
 export class HomeComponent implements OnInit {
   faAngleLeft=faAngleLeft
+  productListe=[5,6,5,5,8,8,6,7,7]
+
   constructor() { }
 
   ngOnInit(): void {
